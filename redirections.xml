@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FrxProfileFolderRedirection ExcludeCommonFolders="0">
+ 
+<Excludes>
+<Exclude>AppData\Local\Google\Chrome\User Data\Default\Cache\</Exclude>
+<Exclude>AppData\Local\Google\Chrome\User Data\Default\Cached Theme Images\</Exclude>
+<Exclude>AppData\Roaming\Google\Chrome\UserData\Default\Code Cache\js</Exclude>
+<Exclude>AppData\Local\Google\Chrome\UserData\Default\Code Cache\js</Exclude>
+<Exclude>AppData\Local\Mozilla\Firefox</Exclude>
+<Exclude>AppData\Roaming\Adobe\Flash Player\AssetCache</Exclude>
+<Exclude>AppData\Roaming\Adobe\Flash Player\NativeCache</Exclude>
+<Exclude>AppData\Roaming\Microsoft\Teams\Cache</Exclude>
+<Exclude>AppData\Roaming\Microsoft\Teams\Service Worker\CacheStorage</Exclude>
+<Exclude>Desktop</Exclude>
+<Exclude>Documents</Exclude>
+<Exclude>Downloads</Exclude>
+<Exclude>Musics</Exclude>
+<Exclude>Pictures</Exclude>
+<Exclude>Videos</Exclude>
+<Exclude>OneDrive</Exclude>
+<Exclude>OneDrive - "Name Office 365 Tenant"</Exclude>
+</Excludes>
+ 
+<Includes>
+<Include Copy="3">AppData\LocalLow\Sun\Java\Deployment\security</Include>
+<Include>AppData\Roaming\Google\Chrome\User Data\Default\Extensions</Include>
+</Includes>
+ 
+</FrxProfileFolderRedirection>
