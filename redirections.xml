@@ -17,8 +17,6 @@
 <Exclude>Musics</Exclude>
 <Exclude>Pictures</Exclude>
 <Exclude>Videos</Exclude>
-<Exclude>OneDrive</Exclude>
-<Exclude>OneDrive - "Name Office 365 Tenant"</Exclude>
 </Excludes>
  
 <Includes>
