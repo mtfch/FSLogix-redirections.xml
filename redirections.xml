@@ -11,6 +11,7 @@
 <Exclude>AppData\Roaming\Adobe\Flash Player\NativeCache</Exclude>
 <Exclude>AppData\Roaming\Microsoft\Teams\Cache</Exclude>
 <Exclude>AppData\Roaming\Microsoft\Teams\Service Worker\CacheStorage</Exclude>
+<Exclude>AppData\Local\assembly\tmp</Exclude>
 <Exclude>Desktop</Exclude>
 <Exclude>Documents</Exclude>
 <Exclude>Downloads</Exclude>
